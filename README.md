@@ -1,4 +1,5 @@
 # Dio-Introducao-POO-Java
 ## Primeiro contato com POO Java
 
-Classes de calcular sálário
+Classes fictícias para calcular sálário
+Adicionado a classe gerente
